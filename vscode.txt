@@ -1,0 +1,1 @@
+Creating virtual environment: https://techinscribed.com/python-virtual-environment-in-vscode/

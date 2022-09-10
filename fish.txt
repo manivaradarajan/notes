@@ -1,0 +1,3 @@
+Get reverse i-search to work:
+
+https://github.com/decors/fish-ghq/issues/6#issuecomment-464278449
